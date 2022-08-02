@@ -4,6 +4,8 @@ Mike-FromIT's dwm build
 Requirements
 ------------
 In order to build dwm you need the Xlib header files.
+"ttf-liberation" font package for demnufont
+
 
 
 Installation
